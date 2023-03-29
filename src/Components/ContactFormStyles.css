@@ -1,0 +1,32 @@
+.form-containerName {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  max-width: 500px;
+  width: 100%;
+  margin: auto;
+  
+
+}
+
+.form-containerName>form {
+  width: 100%;
+  border: 2px solid #f9f0f0;
+  padding: 20px;
+}
+
+
+
+/* @media screen and (max-width: 850px) {
+    .form-container {
+        margin: 4rem 6rem;
+    }
+    .form-container form {
+        padding-top: 2rem;
+        width: 90%;
+      
+    }
+
+} */
